@@ -1,0 +1,18 @@
+{
+    "CentOS_8": {
+        "xml": "/storage/template/centos8.xml",
+        "qcow2": "/storage/template/centos8.qcow2"
+    },
+    "Debian_11": {
+        "xml": "/storage/template/debian11.xml",
+        "qcow2": "/storage/template/debian11.qcow2"
+    },
+    "WS_2k19": {
+        "xml": "/storage/template/WS2k19.xml",
+        "qcow2": "/storage/template/WS2k19.qcow2"
+    },
+    "W10_20H2": {
+        "xml": "/storage/template/W1020H2.xml",
+        "qcow2": "/storage/template/W1020H2.qcow2"
+    }
+}

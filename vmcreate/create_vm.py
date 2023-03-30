@@ -2,6 +2,7 @@ import sys
 import json
 import time
 import os
+import xml.etree.ElementTree as ET
 
 
 class DefineVm:
